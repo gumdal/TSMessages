@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7F6719F1314E6B51016DB1EC166C64F051B42C2E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "344EC9B3C58DE3454A853CA10A660CD90F7682A3" : 0,
+    "7F6719F1314E6B51016DB1EC166C64F051B42C2E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "249E2109-095D-494B-8F2B-18ED9B88893D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "344EC9B3C58DE3454A853CA10A660CD90F7682A3" : "..",
+    "7F6719F1314E6B51016DB1EC166C64F051B42C2E" : "TSMessages"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TSMessages",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/TSMessages.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.wdf.sap.corp:I305138\/com.sap.sdc.ios.project.BeaconAutomotive.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "344EC9B3C58DE3454A853CA10A660CD90F7682A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/toursprung\/TSMessages.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7F6719F1314E6B51016DB1EC166C64F051B42C2E"
+    }
+  ]
+}
